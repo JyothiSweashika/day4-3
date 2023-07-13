@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\assign1\assign1\bin\Debug\assign1.exe.config
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\assign1\assign1\bin\Debug\assign1.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\assign1\assign1\bin\Debug\assign1.pdb
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\assign1\assign1\obj\Debug\assign1.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\assign1\assign1\obj\Debug\assign1.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\assign1\assign1\obj\Debug\assign1.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\assign1\assign1\obj\Debug\assign1.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\assign1\assign1\obj\Debug\assign1.pdb
